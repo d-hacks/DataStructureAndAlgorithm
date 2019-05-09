@@ -1,0 +1,10 @@
+//
+// Created by yusuke on 2019-04-30.
+//
+
+#ifndef DYNAMIC_PROGRAMMING_KNAPSACK_PROBLEM_H
+#define DYNAMIC_PROGRAMMING_KNAPSACK_PROBLEM_H
+
+void knapsack_main();
+
+#endif //DYNAMIC_PROGRAMMING_KNAPSACK_PROBLEM_H
